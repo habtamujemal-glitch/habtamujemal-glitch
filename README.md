@@ -1,3 +1,4 @@
+
 # Hi there, I'm Habtamu Jemal 👋
 
 🎓 **Software Engineering Student at Jimma University**  
@@ -7,7 +8,7 @@
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** C++, Java, JavaScript, HTML, CSS
-- **Tools:** Git, GitHub, Acode
+- **Tools:** Git, GitHub, Acode, Dev C++, VS Code, Visual Studio
 
 ---
 
