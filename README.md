@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Habtamu Jemal 👋
 
-<!--
-**habtamujemal-glitch/habtamujemal-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student at Jimma University**  
+💻 **Passionate about Software Development, DSA & Web Building**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** C++, Java, JavaScript, HTML, CSS
+- **Tools:** Git, GitHub, Acode
+
+---
+
+### 📈 GitHub Stats
+![Habtamu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=habtamujemal-glitch&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habtamujemal-glitch&layout=compact&theme=radial)
+
+---
+
+📫 **How to reach me:** `habtamujemal170@gmail.com`
